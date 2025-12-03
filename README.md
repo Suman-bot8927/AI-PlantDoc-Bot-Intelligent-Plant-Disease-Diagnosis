@@ -1,0 +1,1 @@
+# AI-PlantDoc-Bot-Intelligent-Plant-Disease-Diagnosis
